@@ -19,6 +19,7 @@ SFARP is a secure, scalable, and P4-integrated framework for Software-Defined Io
 ➡️ Supports primary/backup controllers and fault-tolerant recovery in four distributed IoT domains.
 
 📁 Project Structure
+```bash
 
 SFARP/
 ├── DFAM/
@@ -56,7 +57,7 @@ SFARP/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
-
+```
 
 ---
 
