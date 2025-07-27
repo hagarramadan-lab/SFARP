@@ -22,8 +22,11 @@ SFARP is a secure, scalable, and P4-integrated framework for Software-Defined Io
 ```bash
 
 SFARP/
+
 ├── DFAM/
+
 │ ├── p4src/
+
 │ │ └── dfam.p4 # P4 code for line-rate ARP analysis
 │ └── lcst_config.json # Table/window size, ARP thresholds
 │
