@@ -1,0 +1,11 @@
+# Core libraries
+pandas
+scikit-learn
+xgboost
+numpy
+
+# For P4 development (outside Python, but noted)
+# p4c, behavioral-model (bmv2) installed via P4.org instructions
+
+# Mininet-WiFi environment (not pip-installable, listed for documentation)
+# mininet-wifi should be installed from source: https://github.com/intrig-unicamp/mininet-wifi

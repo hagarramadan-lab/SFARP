@@ -1,0 +1,26 @@
+controllers:
+  central:
+    ip: 127.0.0.1
+    port: 6653
+  domain1:
+    ip: 127.0.0.1
+    port: 6655
+  domain2:
+    ip: 127.0.0.1
+    port: 6656
+
+switch_mapping:
+  s1: domain1
+  s2: domain1
+  s3: domain2
+  s4: domain2
+
+iot_domains:
+  - domain: IoT_Domain_1
+    devices: [h1, h2, h3, h4, h5]
+  - domain: IoT_Domain_2
+    devices: [h6, h7, h8, h9, h10]
+  - domain: IoT_Domain_3
+    devices: [h11, h12, h13, h14, h15]
+  - domain: IoT_Domain_4
+    devices: [h16, h17, h18, h19, h20]

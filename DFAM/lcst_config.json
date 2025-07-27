@@ -1,0 +1,17 @@
+{
+    "window_size": 500,
+    "thresholds": {
+      "packet_rate": 1000,
+      "arp_mac_changes": 10,
+      "duplicate_mac_ip": 5
+    },
+    "features": [
+      "PacketsPerSecond",
+      "EntropyPacketSize",
+      "ARP_MAC_Changes",
+      "Duplicate_MAC_IP",
+      "ARP_Packet_Count"
+    ],
+    "adaptive_monitoring": true
+  }
+  

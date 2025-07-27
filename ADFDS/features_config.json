@@ -1,0 +1,28 @@
+{
+    "features": [
+        "PL",
+        "IPD",
+        "PPF",
+        "BPS",
+        "FPS",
+        "ETP",
+        "BTU",
+        "RST",
+        "ACK",
+        "PPS",
+        "LTP",
+        "OWD",
+        "FR",
+        "SWR",
+        "TR",
+        "UFP",
+        "NTI",
+        "TTF",
+        "ATP",
+        "AMC",
+        "APC",
+        "DMP",
+        "API"
+    ],
+    "label": "label"
+}

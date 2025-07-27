@@ -1,0 +1,24 @@
+{
+    "arp_spoofing": {
+        "quarantine": true,
+        "notify_neighbors": true,
+        "block_threshold": 3
+    },
+    "traffic": {
+        "severity_levels": {
+            "low": {
+                "action": "drop"
+            },
+            "medium": {
+                "action": "prioritize"
+            },
+            "high": {
+                "action": "shape_and_limit"
+            }
+        }
+    },
+    "adjustment": {
+        "enabled": true,
+        "check_interval_sec": 60
+    }
+}
