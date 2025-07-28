@@ -26,6 +26,7 @@ SFARP is a secure, scalable, and P4-integrated framework for Software-Defined Io
 
 📁 Project Structure
 
+```bash
 SFARP/
 ├── DFAM/
 │   ├── p4src/
@@ -57,6 +58,7 @@ SFARP/
 ├── LICENSE
 └── README.md
 
+```
 ---
 
 🏗️ Requirements
