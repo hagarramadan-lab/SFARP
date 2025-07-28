@@ -20,7 +20,7 @@ SFARP is a secure, scalable, and P4-integrated framework for Software-Defined Io
 ➡️ Supports primary/backup controllers and fault-tolerant recovery in four distributed IoT domains.
 
 **High Detection Accuracy, Fast Reaction**  
-➡️ 99.19% binary classification and <240ms mitigation latency in real-time experiments.
+➡️ Achieves strong classification performance with low-latency mitigation in real-time IoT attack scenarios.
 
 ---
 
@@ -98,15 +98,6 @@ Tested on:
 - IoTID20
 - TON_IoT
 
-Results summary:
-
-| Metric                      | Value         |
-|----------------------------|---------------|
-| Binary Detection Accuracy  | 99.19%        |
-| Multi-class Accuracy       | 95.41%–98.71% |
-| Mitigation Latency         | 0.24s         |
-| Bandwidth Overhead Drop    | 34.8%         |
-| Controller CPU Saved       | 28%           |
 
 ---
 
