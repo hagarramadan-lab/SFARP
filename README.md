@@ -55,7 +55,6 @@ SFARP/
 │   ├── arp_analysis.py
 │   └── traffic_features.py
 ├── requirements.txt
-├── LICENSE
 └── README.md
 
 ```
